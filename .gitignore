@@ -2,3 +2,7 @@
 /corr2.py
 /corr_llama.py
 /corr_llm.py
+*.csv
+*.xls
+*.npy
+*.pdf
