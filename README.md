@@ -5,6 +5,8 @@ Projekt służy do analizy semantycznego podobieństwa między klasyfikacjami NA
 
 W kolejnym kroku zamierzam zbudować automatyczną macierz przejścia między klasyfikacjami w oparciu o największą zbieżność. 
 
+![Macierz zbieżności](data/processed/heatmap.png)
+
 ## Funkcjonalności
 - Ekstrakcja kodów i opisów COICOP z metodologii BBGD
 - Generowanie embedingów dla opisów kategorii z wykorzystaniem modeli językowych

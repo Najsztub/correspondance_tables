@@ -296,6 +296,9 @@ if __name__ == "__main__":
         result['similarity_matrix']
     )
 
+    # Wyświetl wyniki
+    print(result['analysis'])
     result['visualizations']['heatmap'].show()
+    result['visualizations']['embedding_space'].show()
 
-    print(result)
+    print(result['similarity_matrix'])
